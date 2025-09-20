@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+## VeggieMate App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Discover delicious vegetarian recipes made simple. From quick meals to wholesome favorites, VeggieMate helps you cook healthier every day. Easy steps, tasty results, plant-powered living.
 
-## Get started
+## Features
 
-1. Install dependencies
+- User Authentication: Sign up and log in securely to access personalized features.
+- Post Recipes: Share your own vegetarian recipes with images and videos.
+- Repost Recipes: Re-share recipes from other users to inspire your followers.
+- Engagement Tools:
+   - Like and comment on recipes
+   - Cooked Button – track how many users have cooked the recipe
+   - Bookmark recipes to save for later
+- Messaging & Notifications:
+   - Direct messages with other users
+   - Real-time notifications for likes, comments, reposts, and new followers
+- Categories & Popular Section: Easily browse recipes by category or check out what’s trending.
+- Ingredients & Instructions: Every recipe comes with a detailed ingredient list and step-by-step guide.
 
+## Installation
+
+1. Clone the repository:
    ```bash
-   npm install
+   git clone https://github.com/miatresenio/NotesApp.git
    ```
 
-2. Start the app
+- Navigate to the project folder: cd RecipeApp
+- Install dependencies: npm install
+- Start the development server: npx expo start
 
-   ```bash
-   npx expo start
-   ```
+## Screenshots
 
-In the output, you'll find options to open the app in a
+![App Screenshot](./assets/images/picture.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Future Enhancements
 
-## Get a fresh project
+- Profile customization (bio, favorite dishes)
+- Advanced search and filters (by ingredients, time, difficulty)
+- Weekly meal planner with grocery list generator
+- Video tutorials and step-by-step cooking mode
+- Social sharing to other platforms (Facebook, Instagram, etc.)
+- Push notifications for new recipes in followed categories
+- Light mode support for better usability
+- Offline recipe access 
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+## About
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This project is part of my learning journey in React Native and is designed as a social recipe-sharing app focused on vegetarian cooking.
 
-## Learn more
+## Developer
 
-To learn more about developing your project with Expo, look at the following resources:
+Developed by Mia Myca Tresenio
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## License
 
-## Join the community
+This project is licensed under the [MIT License](./LICENSE).
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
