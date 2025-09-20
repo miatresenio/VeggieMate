@@ -21,7 +21,7 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/miatresenio/NotesApp.git
+   git clone https://github.com/miatresenio/VeggieMate.git
    ```
 
 - Navigate to the project folder: cd RecipeApp
@@ -30,7 +30,16 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 
 ## Screenshots
 
-![App Screenshot](./assets/images/picture.png)
+![App Screenshot](./assets/images/wc.png)
+![App Screenshot](./assets/images/signup.png)
+![App Screenshot](./assets/images/signin.png)
+![App Screenshot](./assets/images/home.png)
+![App Screenshot](./assets/images/postdetails.png)
+![App Screenshot](./assets/images/bookmark.png)
+![App Screenshot](./assets/images/messages.png)
+![App Screenshot](./assets/images/notifications.png)
+![App Screenshot](./assets/images/profile.png)
+
 
 
 ## Future Enhancements
