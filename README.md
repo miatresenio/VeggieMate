@@ -44,9 +44,9 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 
 ## Future Enhancements
 
-- Profile customization (bio, favorite dishes)
+- Profile customization (bio)
 - Advanced search and filters (by ingredients, time, difficulty)
-- Weekly meal planner with grocery list generator
+- Weekly meal planner 
 - Video tutorials and step-by-step cooking mode
 - Social sharing to other platforms (Facebook, Instagram, etc.)
 - Push notifications for new recipes in followed categories
