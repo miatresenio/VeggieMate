@@ -17,16 +17,6 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 - Categories & Popular Section: Easily browse recipes by category or check out what’s trending.
 - Ingredients & Instructions: Every recipe comes with a detailed ingredient list and step-by-step guide.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/miatresenio/VeggieMate.git
-   ```
-
-- Navigate to the project folder: cd RecipeApp
-- Install dependencies: npm install
-- Start the development server: npx expo start
 
 ## Screenshots
 
