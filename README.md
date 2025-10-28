@@ -46,7 +46,7 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 
 ## About
 
-This project is part of my learning journey in React Native and is designed as a social recipe-sharing app focused on vegetarian cooking.
+This project is part of my learning journey. And it is designed as a social recipe-sharing app focused on vegetarian cooking.
 
 ## Developer
 
