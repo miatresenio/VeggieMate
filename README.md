@@ -4,7 +4,7 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 
 ## Features
 
-- User Authentication: Sign up and log in securely to access personalized features.
+- User Authentication
 - Post Recipes: Share your own vegetarian recipes with images and videos.
 - Repost Recipes: Re-share recipes from other users to inspire your followers.
 - Engagement Tools:
