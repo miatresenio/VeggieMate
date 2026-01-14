@@ -41,7 +41,8 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 - Social sharing to other platforms (Facebook, Instagram, etc.)
 - Push notifications for new recipes in followed categories
 - Light mode support for better usability
-- Offline recipe access 
+- Offline recipe access
+- Need Backend
 
 
 ## About
