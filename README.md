@@ -51,7 +51,7 @@ This project is part of my learning journey. And it is designed as a social reci
 
 ## Developer
 
-Developed by Mia Myca Tresenio
+Developed by Mia Tresenio
 
 ## License
 
