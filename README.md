@@ -24,6 +24,7 @@ Discover delicious vegetarian recipes made simple. From quick meals to wholesome
 ![App Screenshot](./assets/images/signup.png)
 ![App Screenshot](./assets/images/signin.png)
 ![App Screenshot](./assets/images/home.png)
+![App Screenshot](./assets/images/ai.png)
 ![App Screenshot](./assets/images/postdetails.png)
 ![App Screenshot](./assets/images/bookmark.png)
 ![App Screenshot](./assets/images/messages.png)
